@@ -76,6 +76,7 @@ fs.writeFileSync(
 // ---------- vercel.json ----------
 const redirects = [
   { source: "/index.html", destination: "/", permanent: true },
+  { source: "/index.php", destination: "/", permanent: true },
   { source: "/about.html", destination: "/about", permanent: true },
   { source: "/contact.html", destination: "/contact", permanent: true },
   { source: "/projects.html", destination: "/projects", permanent: true },
