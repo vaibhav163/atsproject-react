@@ -2,187 +2,357 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.atsproject.in/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects-in-noida</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects-in-greater-noida</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects-in-ghaziabad</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects-in-delhi</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects-in-gurugram</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects-in-faridabad</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects-in-sohna</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects-in-mumbai</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects-in-panipat</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects-in-panchkula</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects-in-shimla</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects-in-gujarat</loc>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/about</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/contact</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects/ats-bouquet-sector-132-noida-expressway</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects/ats-codename-hotcake-150-sector-150</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects/ats-homekraft-pious-hideaways-phase-2-sector-150</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects/ats-homekraft-pious-hideaways-sector-150-noida-expressway</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects/ats-kinghood-drive-sector-152</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects/ats-kingston-heath-sector-150</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects/ats-knightsbridge-sector-124</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects/ats-le-grandiose-phase-2-sector-150</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects/ats-le-grandiose-sector-150-noida-expressway</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects/ats-picturesque-reprieves-sector-152</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects/ats-pristine-golf-villas-sector-150-noida-expressway</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects/ats-pristine-phase-2-sector-150-noida-expressway</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects/ats-veritas-sector-150</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects/ats-allure-sector-22d-yamuna-expressway</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects/ats-commercial-greater-noida</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects/ats-destinaire-phase-2-sector-1</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects/ats-destinaire-sector-1</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects/ats-dolce-phase-2-zeta-1</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects/ats-homekraft-happy-trails-sector-10</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects/ats-homekraft-nobility-sector-4</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects/ats-homekraft-sector-12</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects/ats-kabana-high-sector-4</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects/ats-plots-yamuna-expressway</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects/ats-province-d-olympia-yamuna-expressway</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects/ats-rhapsody-sector-1</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects/ats-the-hedges-sector-22d-yamuna-expressway</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects/ats-yamuna-expressway</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects/ats-floral-pathways-nh-24</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects/ats-homekraft-residential-nh-24</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.atsproject.in/projects/ats-khyber-range-nh-24</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects/ats-grandstand-phase-2-sector-99a</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects/ats-grandstand-sector-99a</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects/ats-homekraft-1000-trees-plots-sector-105</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects/ats-homekraft-plots-sector-35-sohna</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects/ats-homekraft-plots-sohna</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects/ats-homekraft-sector-105</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects/ats-marigold-sector-89a-dwarka-expressway</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects/ats-rainbow-park-sector-99a</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects/ats-sanctuary-sector-105</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects/ats-tourmaline-sector-109-dwarka-expressway</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects/ats-triumph-sector-104-dwarka-expressway</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects/ats-triumph-villas-sector-104</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects/ats-delhi</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects/ats-homekraft-rohini</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects/ats-homekraft-sector-17-rohini</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects/ats-homekraft-sector-6-rohini</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects/ats-faridabad</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects/ats-plots-faridabad</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects/ats-low-rise-floors</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects/ats-mumbai</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects/ats-powai</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects/ats-pragya-gift-city-gandhinagar</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects/ats-mashobra-hills</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects/ats-homekraft-plots-panchkula</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.atsproject.in/projects/ats-homekraft-plots-panipat</loc>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
 </urlset>

@@ -8,10 +8,10 @@ import { fileURLToPath } from "node:url";
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const raw = JSON.parse(fs.readFileSync(path.join(ROOT, "projects-data.json"), "utf8"));
 const BASE = "https://www.atsproject.in";
-const LASTMOD = "2026-11-05";
+const LASTMOD = "2026-11-28";
 
-// Final user-confirmed scope: only these three cities are published.
-const CITIES = ["noida", "greater-noida", "ghaziabad"];
+// Scope (user, 2026-11-28): ALL cities are published — full 55-project catalogue.
+const CITIES = ["noida", "greater-noida", "ghaziabad", "delhi", "gurugram", "faridabad", "sohna", "mumbai", "panipat", "panchkula", "shimla", "gujarat"];
 const projects = raw.projects.filter((p) => CITIES.includes(p.city));
 
 // ---------- src/data/projects.js ----------
@@ -76,6 +76,9 @@ fs.writeFileSync(
 // ---------- vercel.json ----------
 const redirects = [
   { source: "/index.html", destination: "/", permanent: true },
+  { source: "/about.html", destination: "/about", permanent: true },
+  { source: "/contact.html", destination: "/contact", permanent: true },
+  { source: "/projects.html", destination: "/projects", permanent: true },
   ...CITIES.flatMap((c) => [
     { source: `/projects-in-${c}/index.html`, destination: `/projects-in-${c}`, permanent: true },
     { source: `/projects-in-${c}`, destination: `/projects-in-${c}`, permanent: false },

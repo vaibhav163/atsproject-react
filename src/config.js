@@ -29,6 +29,15 @@ export const CITIES = [
   { slug: "noida", name: "Noida", img: "/images/city/projects-in-noida.webp" },
   { slug: "greater-noida", name: "Greater Noida", img: "/images/city/projects-in-greater-noida.webp" },
   { slug: "ghaziabad", name: "Ghaziabad", img: "/images/city/projects-in-ghaziabad.webp" },
+  { slug: "delhi", name: "Delhi", img: "/images/city/projects-in-delhi.webp" },
+  { slug: "gurugram", name: "Gurugram", img: "/images/city/projects-in-gurugram.webp" },
+  { slug: "faridabad", name: "Faridabad", img: "/images/city/projects-in-faridabad.webp" },
+  { slug: "sohna", name: "Sohna", img: "/images/city/projects-in-sohna.webp" },
+  { slug: "mumbai", name: "Mumbai", img: "/images/city/projects-in-mumbai.webp" },
+  { slug: "panipat", name: "Panipat", img: "/images/city/projects-in-panipat.webp" },
+  { slug: "panchkula", name: "Panchkula", img: "/images/city/projects-in-panchkula.webp" },
+  { slug: "shimla", name: "Shimla", img: "/images/city/projects-in-shimla.webp" },
+  { slug: "gujarat", name: "Gujarat", img: "/images/city/projects-in-gujarat.webp" },
 ];
 
 export default SITE;
