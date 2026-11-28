@@ -469,6 +469,361 @@
       "source": "/ats-khyber-range-nh-24/index.html",
       "destination": "/projects/ats-khyber-range-nh-24",
       "permanent": true
+    },
+    {
+      "source": "/projects-in-delhi",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-delhi/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-faridabad",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-faridabad/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-gujarat",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-gujarat/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-gurugram",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-gurugram/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-mumbai",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-mumbai/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-panchkula",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-panchkula/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-panipat",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-panipat/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-shimla",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-shimla/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-sohna",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-sohna/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-gurugram/ats-grandstand-phase-2-sector-99a",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-gurugram/ats-grandstand-phase-2-sector-99a/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-gurugram/ats-grandstand-sector-99a",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-gurugram/ats-grandstand-sector-99a/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-gurugram/ats-homekraft-1000-trees-plots-sector-105",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-gurugram/ats-homekraft-1000-trees-plots-sector-105/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-gurugram/ats-homekraft-plots-sector-35-sohna",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-gurugram/ats-homekraft-plots-sector-35-sohna/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-gurugram/ats-homekraft-plots-sohna",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-gurugram/ats-homekraft-plots-sohna/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-gurugram/ats-homekraft-sector-105",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-gurugram/ats-homekraft-sector-105/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-gurugram/ats-marigold-sector-89a-dwarka-expressway",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-gurugram/ats-marigold-sector-89a-dwarka-expressway/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-gurugram/ats-rainbow-park-sector-99a",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-gurugram/ats-rainbow-park-sector-99a/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-gurugram/ats-sanctuary-sector-105",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-gurugram/ats-sanctuary-sector-105/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-gurugram/ats-tourmaline-sector-109-dwarka-expressway",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-gurugram/ats-tourmaline-sector-109-dwarka-expressway/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-gurugram/ats-triumph-sector-104-dwarka-expressway",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-gurugram/ats-triumph-sector-104-dwarka-expressway/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-gurugram/ats-triumph-villas-sector-104",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-gurugram/ats-triumph-villas-sector-104/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-delhi/ats-delhi",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-delhi/ats-delhi/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-delhi/ats-homekraft-rohini",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-delhi/ats-homekraft-rohini/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-delhi/ats-homekraft-sector-17-rohini",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-delhi/ats-homekraft-sector-17-rohini/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-delhi/ats-homekraft-sector-6-rohini",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-delhi/ats-homekraft-sector-6-rohini/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-faridabad/ats-faridabad",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-faridabad/ats-faridabad/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-faridabad/ats-plots-faridabad",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-faridabad/ats-plots-faridabad/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-sohna/ats-low-rise-floors",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-sohna/ats-low-rise-floors/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-mumbai/ats-mumbai",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-mumbai/ats-mumbai/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-mumbai/ats-powai",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-mumbai/ats-powai/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-gujarat/ats-pragya-gift-city-gandhinagar",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-gujarat/ats-pragya-gift-city-gandhinagar/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-shimla/ats-mashobra-hills",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-shimla/ats-mashobra-hills/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-panchkula/ats-homekraft-plots-panchkula",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-panchkula/ats-homekraft-plots-panchkula/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-panipat/ats-homekraft-plots-panipat",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-panipat/ats-homekraft-plots-panipat/index.html",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/about.html",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/contact.html",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/projects.html",
+      "destination": "/projects",
+      "permanent": true
     }
   ],
   "headers": [
